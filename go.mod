@@ -1,3 +1,3 @@
-module github.com/gospider/conf
+module github.com/gospider007/conf
 
 go 1.21.3
